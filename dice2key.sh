@@ -1,6 +1,6 @@
 # Converts a sequence of dice rolls to a Bitcoin private key.
 #
-# Simply roll a standard 6-sided die 100 times, and pass the resulting
+# Simply roll a standard 6-sided dice 100 times, and pass the resulting
 # numbers into the script.
 #
 # I am placing this work in the public domain.
